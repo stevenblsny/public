@@ -1,6 +1,6 @@
 var EMA = EMA || {};
 EMA.BB = (function () {
-    "use strict";
+    "use strict" ;
     var u = {}, //User namespace
         au = {}, //Anonymous User namespace
         nitro, //User nitro obj
